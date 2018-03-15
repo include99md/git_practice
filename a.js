@@ -1,2 +1,2 @@
 console.log("111");
-console.log("add by include2md");
+console.log("added by include2md");
